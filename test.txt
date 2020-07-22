@@ -1,1 +1,2 @@
 hello, welcome to git
+Now I am editing this file to see the changes on local
